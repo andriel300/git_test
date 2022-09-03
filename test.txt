@@ -1,1 +1,3 @@
-hello world im testing this GIT cmds basics
+# git_test
+Hello world and ODIN! im testing this GIT cmds basics from the course.
+testing git add .
